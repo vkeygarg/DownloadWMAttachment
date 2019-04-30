@@ -1,0 +1,16 @@
+/.gradle/
+/bin/
+/build/
+**/*.class
+**/bin/
+**/.project
+**/.classpath
+**/.settings
+**/.gradle
+**/build/
+**/.DS_Store
+/gradlew
+/gradlew.bat
+**/gradle-wrapper.jar
+**/gradle-wrapper.properties
+
